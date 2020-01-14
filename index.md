@@ -7,15 +7,19 @@
   - [Artificial Intelligence](#artificial-intelligence)
 - [Personal projects](#personal-projects)
   - [Mutated Genetic Based Neural Network (MGNN) - Snakegen](#mutated-genetic-based-neural-network-mgnn---snakegen)
+
+
 # Professional projects
 ## [PFE] - Colaborative Robot - COBOT
 For 6 months, I worked in a team of 4 trainees (miself included) for two companies: Avisto and Elsys Design. The main goal of this project was to create a **collaborative robot**, a **COBOT**, meaning a robot that interacts directly with humans. That means the system had to prevent collisions and always know where obstacles were located.
-To create this system we have programmed a Computer Vision system, based on a set of image processing to provide a real-time control of the robot's position taking into account the presence of obstacles.  
+To create this system we have programmed a Computer Vision system, based on a set of image processing to provide a real-time control of the robot's position taking into account the presence of obstacles.
+
 [Please follow this link to learn more]()
 
 ## Data analist for a team of reasearcher
 For a month, I joined a team of researchers who were testing their solution, based on a new technology (protected by a confidentiality agreement) in order to start its industrialization.
 My main activity was the analysis, writing and testing of **Matlab scripts**. In addition, I had to provide data analysis on a weekly basis to allow the team to adapt future tests to the results obtained.
+
 [Please follow this link to learn more]()
 
 # Tutored projects
@@ -48,4 +52,5 @@ This project is devided in two parts:
 
 For 6 months I worked with an engineer friend on a personal project. During our spare time, we developed a **JavaScript** program to trained a **Neural Network (NN)** to play the Snake game.
 Because we wanted to get to know a new type of NN, we choose to use the **Mutated Genetic Based Neural Neural Network** (**MGNN**) to train our model, called **Snakegen**.
+
 [Please follow this link to learn more]()
