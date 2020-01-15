@@ -29,7 +29,7 @@ To accomplish this task, we created two models:
 - a **Covoloutional Neural Network (CNN)** to classify pictures into categories,
 - a **U-Net model** to apply a pixel segmentation allowing the detection of polyps.
 
-[Please follow this link to learn more]()
+[Please follow this link to learn more](./TutoredProject/Data_Sience/dataScience.md)
 
 ## Computer Vision & Robotic
 For two months, I worked on a tutored project whose objective was to provide a program allowing a robot (in a simulator) to follow a sign in space (3D) using a camera. In short, the objective was that a robot with a mounted camera stays in front of a moving sign in order to leave the sign in the center of the image (camera).
